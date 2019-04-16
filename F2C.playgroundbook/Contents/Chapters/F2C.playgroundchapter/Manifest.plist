@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>F2C</string>
+	<key>Pages</key>
+	<array>
+		<string>intro.cutscenepage</string>
+		<string>cloudFog.playgroundpage</string>
+		<string>howItWorks.playgroundpage</string>
+		<string>thanks.playgroundpage</string>
+	</array>
+</dict>
+</plist>
